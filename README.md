@@ -1,0 +1,1 @@
+This neural network uses deep learning techniques to classify images of numbers. The network has an accuracy of 97%+. It trains a 4 layer neural network that outputs the number it thinks it is from 0 to 9.
